@@ -56,3 +56,18 @@
     box-shadow: 5px 5px 10px gray;
     
 }
+.about{
+    background-color: rgb(196, 86, 196);
+    color: ivory;
+}
+.id ,h6{
+    padding: 5px;
+}
+.pd{
+    position: relative;
+    left: 10px;
+}
+.just{
+    font-size: 15px;
+    text-align: center;
+}
