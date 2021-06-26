@@ -18,3 +18,41 @@
 .container{
     margin-bottom: 40px;
 }
+.cat1{
+    background-color: burlywood;
+}
+.cat2{
+    background-color: cornflowerblue;
+}
+.cat3{
+    background-color:rgb(29, 43, 165);
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 20px;
+    
+    box-shadow: 10px 10px 10px  gray;
+}
+.cat{
+    color:whitesmoke;
+}
+.categories img{
+    width: 100px;
+}
+.buy-now-button-s{
+    width: 50%;
+    color: white;
+    background-color:#ff136f;
+   border: none;
+   padding: 9px 25px;
+   border-radius: 10px;
+}
+.ss{
+    position: relative;
+    left: 15px;
+    bottom: 10px;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px gray;
+    
+}
